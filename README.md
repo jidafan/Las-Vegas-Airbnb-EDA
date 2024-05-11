@@ -85,3 +85,4 @@ The barplot shows the number of guests versus the number of stars for the Airbnb
 
 ## Conclusion
 
+The EDA showed that the Airbnbs hosted on Airbnb on average have high ratings and there is a wide variety of accommodations for any potential visitors. 
