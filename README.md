@@ -44,3 +44,18 @@ The first step in our data cleaning process is to rename the columns to simpler 
 | `price`     | **price**  |   
 | `firstReviewComments` | **Review**                  |
 | `firstReviewRatings`     | **Rating**  |
+
+### Removing unnecessary columns
+
+The second step in our data-cleaning process was to remove any unnecessary columns. In this case, the price column was received as it was filled with null values.
+
+### Standardizing values
+
+The third step in the data-cleaning process was standardizing the values so duplicate values could be removed. As there were multiple addresses labelled as different when they were the same. To do so, trailing and white spaces were removed and the format was standardized by having the values all become lowercase.
+
+### Interpolate
+
+In case there were any missing values we just interpolate to fill in the data using the past information
+
+## EDA
+
