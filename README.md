@@ -55,7 +55,33 @@ The third step in the data-cleaning process was standardizing the values so dupl
 
 ### Interpolate
 
-In case there were any missing values we just interpolate to fill in the data using the past information
+In case there were any missing values we just interpolated to fill in the data using the past information
 
 ## EDA
+
+### Aggregated stars 
+
+The graph shows the distribution of ratings for Airbnbs.
+
+![image](https://github.com/jidafan/Las-Vegas-Airbnb-EDA/assets/141703009/d37efc65-f7ca-41fd-bbd1-12c3b91bae7b)
+
+### Heatmap
+
+The heatmap shows the correlation between three different columns, stars, ratings and guests.
+
+![image](https://github.com/jidafan/Las-Vegas-Airbnb-EDA/assets/141703009/f47a3a04-0e4c-4ca4-b704-006add114989)
+
+### Barplot of property type vs rating
+
+The barplot shows the rating for property type vs rating
+
+![image](https://github.com/jidafan/Las-Vegas-Airbnb-EDA/assets/141703009/52e744bb-68c9-4015-9484-40687117cb4d)
+
+### Number of guests vs stars
+
+The barplot shows the number of guests versus the number of stars for the Airbnb hosting
+ 
+![image](https://github.com/jidafan/Las-Vegas-Airbnb-EDA/assets/141703009/41f764c3-71b7-4b87-948b-f151ab965501)
+
+## Conclusion
 
