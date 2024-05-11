@@ -12,4 +12,15 @@ A popular way for people to find housing when visiting a different city than the
 
 ## Data Review
 
-The dataset contains information on hundreds of Airbnbs offered in the Las Vegas area.
+The dataset contains information on hundreds of Airbnbs offered in the Las Vegas area, with 8 variables giving information about the Airbnbs offered.
+
+| Variable      | Description           | 
+| ------------- |:---------------------| 
+| `roomType`     | The type of accomidation   |
+| `stars`     | The average guest rating for the Airbnb   |   
+| `address` | The address of the city the Airbnb is located in                             |
+| `numberOfGuests`     | The number of guests allowed at the accomodation  |
+| `primaryHost/smartName`     | The number of guests allowed at the accomodation  |
+| `price`     | The listing price of the Airbnb    |   
+| `firstReviewComments` | The comments left on the first review by a guest                           |
+| `firstReviewRatings`     | The rating left on the first review by a guest  |
