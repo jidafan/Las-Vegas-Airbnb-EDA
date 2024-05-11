@@ -3,7 +3,8 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Data Review](#data-review)
-* [PowerBI Dashboard](#powerbi-dashboard)
+* [Data Cleaning](#data-cleaning)
+* [EDA](#eda)
 * [Conclusion](#conclusion)
 
 ## Introduction
