@@ -25,3 +25,22 @@ The dataset contains information on hundreds of Airbnbs offered in the Las Vegas
 | `price`     | The listing price of the Airbnb    |   
 | `firstReviewComments` | The comments left on the first review by a guest                           |
 | `firstReviewRatings`     | The rating left on the first review by a guest  |
+
+## Data Cleaning
+
+The first step of our EDA process is to clean the data to prepare it for analysis. 
+
+### Renaming Columns
+
+The first step in our data cleaning process is to rename the columns to simpler terms for easier reference and readability.
+
+| Original Variable      | Renamed Variable          | 
+| ------------- |:---------------------| 
+| `roomType`     | **Property** |
+| `stars`     | **stars**   |   
+| `address` | **Address**                            |
+| `numberOfGuests`     | **Guest** |
+| `primaryHost/smartName`     | **Host**  |
+| `price`     | **price**  |   
+| `firstReviewComments` | **Review**                  |
+| `firstReviewRatings`     | **Rating**  |
